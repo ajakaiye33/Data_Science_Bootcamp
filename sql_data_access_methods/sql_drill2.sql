@@ -47,3 +47,15 @@ SELECT
 FROM
     trips
 GROUP BY 1;
+
+SELECT
+    trips.trip_id,
+    trips.start_station,
+    stations.lat,
+    stations.long
+FROM
+    trips
+JOIN
+    stations
+ON
+    trips.start_station = stations.name;
