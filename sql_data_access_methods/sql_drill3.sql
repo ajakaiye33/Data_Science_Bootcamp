@@ -37,28 +37,30 @@ ORDER BY status.bikes_available DESC;
 --station but ordered by dock count.
 
 SELECT
-	stations.name,
-	COUNT(trips.start_station) as number_of_trips,
-	trips.start_station
+	t.start_station,
+	t.end_station,
+	s.dockcount,
+	COUNT(t.start_station) as number_of_trips
 
-FROM stations
-JOIN trips
-ON trips.start_station = stations.name
+FROM stations s
+JOIN trips t
+ON t.start_station = s.name
 GROUP BY 1,2,3
-ORDER BY stations.dockcount;
-
+ORDER BY s.dockcount DESC;
 
 
 --(Challenge) What's the length of the longest trip for each day it
 --rains anywhere?
 
 SELECT
-	MAX(trips.duration),
-	trips.start_date,
-	trips.end_date,
-	weather.events
+	t.start_date,
+	t.end_date,
+	w.events,
+	MAX(trips.duration) as longest_trip
 
-FROM trips
-JOIN weather
-ON weather.zip = trips.zip_code
+FROM trips t
+JOIN weather w
+ON w.zip = t.zip_code
 WHERE weather.events LIKE 'Rain'
+GROUP BY 1,2,3
+ORDER BY longest_trip DESC;
