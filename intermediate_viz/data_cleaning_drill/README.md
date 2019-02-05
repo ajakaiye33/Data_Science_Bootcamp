@@ -1,8 +1,8 @@
 ### Welcome Trust Open-Access Funding Between 2012-2013
 
-Data in their natural form rarely come sqeaky-clean. Often time they are passed through the 'laundary machine' that ride them of all impurities before they can be analysed and meaning insight drawn from them. The Laundary machine are the various techniques employed to clean and purify the data of all impurities and dirt.
+Data in their natural form rarely come sqeaky-clean. Often time they are passed through the 'laundary machine' that rid them of all impurities before they can be analysed and meaning insight drawn from them. The 'Laundary machine' are the various techniques employed to clean and purify the data of all impurities and dirt.
 
-In this prolect we used some of those techniques.
+In this project we used some of those techniques.
 
 The data set is about the open-access prices paid by the [WELCOME Trust between 2012 and 2013]('https://www.dropbox.com/s/19cjdi7wqhlfcpt/WELLCOME.zip?dl=0')
 
