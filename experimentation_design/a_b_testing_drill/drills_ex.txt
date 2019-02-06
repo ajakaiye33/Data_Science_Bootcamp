@@ -1,0 +1,116 @@
+Outline how you could use an A/B test to find an answer.
+Be sure to identify all five key components of an A/B test we outlined above.
+
+Question 1:
+Does a new supplement help people sleep better?
+
+In view of using the key components of  A/B testing to solve whether a new supplement
+would help people sleep better, we would devise  means of creating two groups wherein
+one of such group would be the control group and the other would be the test group
+The test group would be administered the supplement whereas the control group wouldn't
+or better still given a placebo. The effect of the supplement the treatment group
+would be compared against the control group.
+
+Volunteers interested in the test, would be required to register. Through
+this registration,  basic information about them is collected especially with
+respect to their sleep pattern e.t.c. From this pool of registered volunteers
+a randomized  process is used to draw two sample groups. Each member of this
+group is equally given a devise that would be used to monitor their sleep
+pattern and conditions for analysis.
+
+
+We would then formulated our hypothesis that says: 'We expect the group that were
+administered the supplement to sleep sounder and better than the group that weren't
+administered the supplement.'
+
+We would analyzed the sleep tracker devise. This would be analyzed to see the
+the number of hour the treatment group sleep at night without interruption or waking
+up at the middle of the night.The result of this analysis would be subjected to
+measurement so as to certify that groups that take the supplement tens to sleep longer time
+uninterrupted than the group without the supplement or under a placebo.
+
+
+We can equally say from the data gathered at the point of registration that those
+that take the supplement aside having sounder sleep tend to perform better at their jobs
+as they experience more promotion at their work place or a more social as they tend to be married
+or in a relationship.The we would advocate for taking the supplement to promote better sleep.
+
+
+
+Question 2:
+
+Will new uniforms help a gym's business?
+
+In view of applying the component of A/B testing to ascertain whether a new uniform
+will help a gyms business, we would first and foremost state that the principal objective
+of any business is sales and anything carried out to improve this objective would invariably
+help the business.
+
+To this end we would isolate two groups of the gyms business. one of such group would
+be an outlet or a branch which could be a controlled group and another group or outlet/ branch
+of the gym which would be a test group. The test group would receive the treatment of new uniforms
+whereas the control group won't.
+
+our sample would be the  customer in form of the  patronage. And as usual records
+of these customer who are subscribers to the gym's services would be obtained. Thus
+one group of these subscriber and potential subscribers would exclusively attend a group
+where the new uniform is introduced and the other group without no new uniform is observed and
+compared and contrasted.
+
+we would then state our hypothesis : 'we expect the gym where new uniforms are introduced
+to experience increased subscribers to its services and overall bottom line improvement against the
+outlet or group where the status quo remained'
+
+the outcome would be measured and analyzed based on the number of the new subscribers the gym added or otherwise
+across both the controlled and testing groups or outlets. Thus the gym that introduced new
+uniform would experience or add more new subscribers to its services than the gym(s)that didn't
+we then subsequently resolved to change the gym's uniforms as this would lead to increased subscribers
+and better bottom line for the gym
+
+We can then also say in the form of other measured variable, that gym subscriber where the new uniforms are introduced tend to attend more
+sessions and achieve their individual goals faster than subscribers where no uniform is introduced.
+We would then advocate for the introduction of new uniforms in the gym
+
+
+
+Question 3:
+
+Will a new homepage improve my online exotic pet rental business?
+
+
+Question 4:
+
+If I put 'please read' in the email subject will more people read my emails?
+
+In view of applying the components of A/B testing, whether more people read my emails
+if I put 'please read ' in the email subject, we would first and foremost come up with
+two groups: the controlled group, where the email is without 'please read' in the
+the email subject and the testing group which is equally referred to as the treatment
+group which would have 'please read' in the email subject. with this two groups we would
+be able to observed and measured the reaction of our sample readers. Do they read open and read
+email with 'please read' more than email without the 'please read' instruction in the
+the email subject.
+
+The sample would be drawn from the pool of  subscribers to the newsletters whose information
+or details is on file or data base. Through a randomized method two sample groups would be fashioned out
+and to one of such group would be sent emails with the 'please read' instruction in the email subject and to the
+other sample group would be sent email without the 'please read' instruction in the subject of the
+of the email. The reaction of these sample subscriber would be observed and
+compared based on our hypothesis.
+
+Our hypothesis would be: "We expect the emails sent with 'please read' in the email subject
+to be read by greater number of the newsletters subscribers than the emails sent without
+the 'please read' place in the email subject"
+
+in view of outcome, we would compared and contrast  the numbers of subscribers
+in the treatment group that read the emails where it's indicated in the email subeject:
+'please read' against those that received emails without the 'please read' instruction
+in the emails subject. We should see more subscribers reading the emails that had 'please read' is
+indicated in the emails subject than when it is not. With this we could also draw
+a less principal variable base on the details of the subscribers of the newsletter
+
+
+To this end with respect of other measured variable, subscribers that read the emails where
+'please read' is in the subject of the emails tend to be from a particular gender or
+reside in a particular geographic location. Thus we would  advocate that subsequent mails
+should carry the 'please read' instruction in the subject.
