@@ -1,0 +1,57 @@
+Call out the potential bias in the proposed experiments
+
+Question 1:
+You're testing advertising emails for a bathing suit company and you test one
+version of the email in February and the other in May.
+
+the above experiment posses the tendency of the following bias:
+
+1.  study context bias:
+Both groups aren't given uniform condition under which
+the test is carried out. The difference in the testing period already exposes the
+group to different experiences. Bathing suit are naturally demanded during summer time
+which is close to the month of May as against February that is relatively a winter period
+The group's response have the tendency to differ not because of the differences
+introduce in the groups by the observer but the different context/atmosphere under which
+each group is subjected would have render the result unbalance from the inception
+of the test. In other words both groups could have been tested on the same month and on t
+he same day if possible so as to give a semblance of a level playing field for the groups
+
+
+Question 2:
+
+You open a clinic to treat anxiety and find that the people who visit show a
+higher rate of anxiety than the general population.
+
+The above test has the tendency to be influence by the following bias:
+Observer bias:
+When the observer already have a specific opinion either by action or inaction
+which border on the outcome of the test such test can not be said to be free from
+from the bias of the observer.the doctor in this case has a specialization that is
+the treatment of anxiety such a doctor already has a bias for anxiety patients by virtue of
+his or her specialization. But the result may be different if for instance the doctor
+is a general practitioner that treat and attends to all patient irrespective of the type
+of sickness. Under such circumstance we could effectively measure the popularity or
+frequency of patients with anxiety as against patient with other type of sickness.
+
+
+
+
+Question 3:
+
+You launch a new ad billboard based campaign and see an increase in
+website visits in the first week.
+
+
+Sampling bias/ selection bias and faulty experiment design
+The issue in this test borders on vagueness and ambiguity especially on what the
+the experiment is testing. probably the business is trying  a medium of advert different
+from what they are used to. maybe the business has been known for advert on print media
+with little or no reaction in terms of site visit but then decide to switch to billboard
+and the group reaction, in terms of increase site visit is experience within a week. I also think
+we could attribute this vague test to a selection bias because we can see the reaction to
+the billboard campaign but don't know the group reaction of the previous ad campaign.
+
+Question 4:
+
+You launch a loyalty program but see no change in visits in the first week.
