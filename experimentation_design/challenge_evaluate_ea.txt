@@ -1,0 +1,127 @@
+Read the following descriptions of an experiment and its analysis, identify
+the flaws in each, and describe what you would do to correct them.
+
+
+Experiment 1:
+
+The sample consisted of two groups of 50 captured droids each. This implies that there
+are 100  captured droids in total that took part in the experiment. In order words
+The two groups were exposed to the two slogans:'Give in to your Anger' and
+'Together We can Rule the galaxy' respectively. The group to which the slogan
+'give in to your anger'  was exposed to, 20 of them were in favor whereas for
+the other group, when exposed to the slogan 'together we can rule the galaxy', 5 were in favor
+of it.
+
+It may be premature to jump to the conclusion that since 20 is greater than 5, the 'Anger'
+slogan must be the winner! The preposition is faulty. That is the comparison under which
+the conclusion is drawn is faulty.Therefore the conclusion is faulty.
+
+The second thing I found faulty about this experiment was lack of specificity of
+who is doing what and what is being done.
+
+Thirdly the two groups were serve the two slogans by two different individuals.
+this is already a bias of context as well as observer bias.
+
+
+meanwhile here are the few things I would do differently in this experiment:
+
+A systematic randomized method would be used to arrived at the two groups consisting of 50
+individuals each.
+One messager e.g Darth Vader should deliver the 'Together' slogan to one group
+
+our hypothesis would be that: we expect more convert with the slogan:Together we can rule
+the galaxy than the slogan:Give in to your anger
+
+when we compare the numbers that decided to join the dark side part on the usage of the slogans:
+'Together we would rule the galaxy day' against the number that convert to the darkside w
+ slogan:Give in to your Anger.
+
+
+ Experiment 2:
+
+ some of the flaws with experiment this experiment are:
+
+ From the the beginning the  two groups of the Jedi planet have been described or labeled as friendly and
+ unfriendly already. The difference should come from the difference in the hope message
+
+ The hypothesis of the experiment is not clear. How can the effect of the visits
+of Jar Jar Binks and Mace Windu be measured. Sending two envoys to these planet opens the
+experiment to observer bias as a single envoy could have gone with the same objective so as
+to reduce the level of suspicion on the result purported to have been achieved.
+
+
+Meanwhile here are a few things I would have done differently:
+
+Two groups of sample would have been drawn from the pool of the Jedi community.The objective
+is to test the difference that would be engendered with the new message of hope
+
+The Jedi should be separated into two groups through a randomized exercise.
+Jar Jar Blinks should send the message of hope to a jedi community(treatment group) group
+while Mace Windu should be sent to the other group without a message of hope
+so that the result should be attributed to the message of hope than the messenger bearing
+the message
+
+the hypothesis should be: 'We expect the jedi community that have received a message of hope
+from Jar Jar Blinks to have a favorable attitude toward jedi than the group without
+a message of hope'
+
+The result from the groups would be compared and if a significant number
+have changed their attitude owing to the new message of hope. The Jedi should then spread the
+new message of hope to the entire Jedi community.
+
+Experiment 3:
+
+flaws with the experiment:
+The HR staff are concentrated in three countries of the five countries whereas the IT
+staff are evenly distributed across the five countries. there is not a level playing field
+of both IT and HR staff
+
+
+what I may do differently
+
+The report must highlight three classes of staff:
+job satisfaction of HR staff not in the three countries HR staff are concentrated
+Job satisfaction of HR staff within the three countries HR staff are concentrated
+Job satisfaction of the IT staff
+
+Then a random sample of two groups should be drawn from the pool of these
+three classes of  HR and IT staff
+
+
+
+
+Experiment 4:
+
+ some flaws with this experiment:
+
+ The data collected for those users that opt-in are used for product research purposes
+ and not for the research purpose of the users
+
+
+ what I should do differently:
+
+ Aside that data that may be used to enhance the product/app another data
+ about the data on the users activity must be collected and analyzed differently
+
+ If this is done then naturally the users levels of activities would rise in an
+ oscillatory manner rather than steadily upwards
+
+
+ The data collected from users for product research purposes can not but rise
+ upwards especially as it's  cumulative.
+
+
+ Experiment 5:
+
+ some of the flaws with this experiment
+
+ The test version should be randomly distributed.
+
+ what I would do differently:
+
+If the student aren't numbered serially then it would be better to shuffle the various
+version of the test together and have student pick a test as the come in
+
+Alternatively, as the student come in they should  pick the stacked questions in a serial
+manner e.g first student pick from stacked A question, second student pick from stacked B and
+third student pick from stacked C, and fourth student should pick from stacked A 
