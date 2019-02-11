@@ -27,7 +27,7 @@ meanwhile here are the few things I would do differently in this experiment:
 
 A systematic randomized method would be used to arrived at the two groups consisting of 50
 individuals each.
-One messager e.g Darth Vader should deliver the 'Together' slogan to one group
+One messenger e.g Darth Vader should deliver the 'Together' slogan to one group
 
 our hypothesis would be that: we expect more convert with the slogan:Together we can rule
 the galaxy than the slogan:Give in to your anger
@@ -72,7 +72,7 @@ new message of hope to the entire Jedi community.
 Experiment 3:
 
 flaws with the experiment:
-The HR staff are concentrated in three countries of the five countries whereas the IT
+The HR staff are concentrated in three countries out of the five countries whereas the IT
 staff are evenly distributed across the five countries. there is not a level playing field
 of both IT and HR staff
 
@@ -124,4 +124,4 @@ version of the test together and have student pick a test as the come in
 
 Alternatively, as the student come in they should  pick the stacked questions in a serial
 manner e.g first student pick from stacked A question, second student pick from stacked B and
-third student pick from stacked C, and fourth student should pick from stacked A 
+third student pick from stacked C, and fourth student should pick from stacked A
