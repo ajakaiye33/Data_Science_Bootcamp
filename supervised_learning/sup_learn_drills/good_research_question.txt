@@ -1,0 +1,62 @@
+Categorize each of the following research questions as "good" or "bad", and
+provide alternative formulations for the bad ones
+
+Research question 1:
+
+What is the 1994 rate of juvenile delinquency in the U.S?
+
+Answer: Good question. Because we can isolate the juvenile delinquency for a particular
+year in a specified area/location, from data the data set
+
+Research Question 2:
+
+What can we do to reduce juvenile delinquency in the U.S?
+
+Answer: Bad Question.The question is an open ended one. Alternatively we could have
+said: Is there a correlation between education and reduction of juvenile delinquency?
+
+Research Question 3:
+
+Does education play a role in reducing juvenile delinquents return to crime?
+Answer: Good question. The data can answer this question if we can draw a correlation
+
+Research Question 4:
+
+How many customers does AT&T currently serve?
+
+Answer: Good question. The total number of AT&T subscribers can be extracted from the data
+
+Research Question 5:
+
+What factors lead consumers to choose AT&T over other service providers
+
+Answer: Bad question. Alternatively we could say: What is the correlation between
+AT&T customer service(response time to customer's issues) and the customer retention/loyalty?
+
+Research Question 6:
+How can AT&T attract more customers?
+Answer: Bad question. Alternatively we could say: Is there a correlation between
+AT&T discount and increase patronage?
+
+Research Question 7:
+
+Why did the Challenger Shuttle explode?
+
+Answer : Bad Question. Alternatively we could say: Is there a relationship between
+engine failure and the explosion of the Challenger Shuttle?
+
+Research Question 8:
+which genes are associated with increased risk of breast cancer.
+Answer Bad question. Alternatively we could say, Is there a strong correlation between the genes
+and increased risk of breast cancer
+
+Research Question 9:
+
+Is it better to read to children at night or in the morning.
+Answer: Bad Question. Alternatively we could say:  Do children that are read to in the morning
+perform better than student that are read to at night?
+
+Research Question 10:
+How does Google's search algorithm work?
+Answer: Bad Question. Alternatively we could say: Does the Google's search algorithm perform better
+than Gogoduck search algorithm?
